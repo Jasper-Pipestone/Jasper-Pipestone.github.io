@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/xminus_1
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://jasper-pipestone.github.io
+  * I am xminus_1 (https://keybase.io/xminus_1) on keybase.
+  * I have a public key ASCPz7VNxM2y6fpp62meFFV5JxLKRV_izHHTw5Zac4_0wwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01208fcfb54dc4cdb2e9fa69eb699e1455792712ca455fe2cc71d3c3965a738ff4c30a",
+      "host": "keybase.io",
+      "kid": "01208fcfb54dc4cdb2e9fa69eb699e1455792712ca455fe2cc71d3c3965a738ff4c30a",
+      "uid": "7000c88d0bfae342fce1b1cd7ab98419",
+      "username": "xminus_1"
+    },
+    "merkle_root": {
+      "ctime": 1541753203,
+      "hash": "74eeca79188ca7078ecf17c32ea62c60d7a35f19405b0bf6aea25ef73eb3b32d8e68e3dd835b3c8c6116e08fe2f08bbd877cc828a10b9f9a8d6a64ac11ade779",
+      "hash_meta": "53b4311c4156b300ee24446953caa8f9be31a2366c2c9d5fc3686e7abd419f50",
+      "seqno": 3925653
+    },
+    "service": {
+      "entropy": "F1BLb7J7Od1ENcXDVDwKUc7Q",
+      "hostname": "jasper-pipestone.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.9.0"
+  },
+  "ctime": 1541753229,
+  "expire_in": 504576000,
+  "prev": "c86eb58642ce96d85a9c10b3393654c98fcab9375cf85e3e804c1ea1b16693cb",
+  "seqno": 67,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgj8+1TcTNsun6aetpnhRVeScSykVf4sxx08OWWnOP9MMKp3BheWxvYWTESpcCQ8QgyG61hkLOlthanBCzOTZUyY/KuTdc+F4+gEweobFmk8vEIEsm5Q1Ohcw9Z2PxUx88DPqm1OlfQcI8SE4u+J2SeW/NAgHCo3NpZ8RACELATHxsTG77AQ2fVxHXms2UKoDlZHKyZKDB3vsUOcJZFk4oOS+of97JybvVmX1a6J70fusVV6XYr0LQZP/JB6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIJ9LdMm1IiYRT90BdAwtDbAQ9/zL5BTXXZlNmWl7k6Seo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/xminus_1
+
+==================================================================
